@@ -1,0 +1,7 @@
+--需要用到的jar包
+commons-io-2.4.jar
+IKAnalyzer2012FF_u1.jar
+lucene-analyzers-common-4.10.3.jar
+lucene-analyzers-smartcn-4.10.3.jar
+lucene-core-4.10.3.jar
+lucene-queryparser-4.10.3.jar
